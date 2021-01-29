@@ -1,6 +1,6 @@
 # onbording_provider_app
 
-Aplicaion de onboarding aplicando provider
+Aplicacion de onboarding aplicando provider
 
 ## Getting Started
 
